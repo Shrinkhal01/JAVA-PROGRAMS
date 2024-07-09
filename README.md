@@ -106,13 +106,16 @@ This repository contains a diverse collection of Java programs and algorithms. T
    ```bash
    git clone https://github.com/your-username/treehelp.git
    cd treehelp
+   ```
 (a).Compile any of the Java files using javac:
   ```bash
   javac BinaryTree.java
+```
 
 (b) Run the compiled Java program
   ```bash
   java BinaryTree
+```
 
 ## 🛠 Using the Programs
 
@@ -126,12 +129,15 @@ Contributions are welcome! If you have any suggestions, bug fixes, or new featur
 2. **Create a branch:**
  ```bash
  git checkout -b feature-newProgram
+```
 3. **Commit your changes:**
  ```bash
  git commit -m 'Add new program'
+```
 4. **Push to the branch:**
  ```bash
  git push origin feature-newProgram
+```
 5. **Submit a pull request**
 
 ## 📜 License
