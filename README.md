@@ -106,12 +106,12 @@ This repository contains a diverse collection of Java programs and algorithms. T
    ```bash
    git clone https://github.com/your-username/treehelp.git
    cd treehelp
-Compile any of the Java files using javac:
-bash
-javac BinaryTree.java
+(a).Compile any of the Java files using javac:
+  ```bash
+  javac BinaryTree.java
 
-Run the compiled Java program
-bash
+(b) Run the compiled Java program
+  ```bash
   java BinaryTree
 
 ## 🛠 Using the Programs
