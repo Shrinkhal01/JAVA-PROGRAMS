@@ -13,7 +13,7 @@ public class kadanalgo{
         }
         int maxsum=0;
         for(int i=0;i<l;i++){
-            sum+=ar[i];
+            sum=Math.max(ar[i],sum+ar[i]);
             maxsum=Math.max(sum,maxsum);
         }
         System.out.println("The max sum is : "+maxsum);
