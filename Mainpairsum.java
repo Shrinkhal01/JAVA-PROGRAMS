@@ -1,6 +1,4 @@
-import java.util.HashMap;
-import java.util.Map;
- 
+import java.util.*; 
 class Mainpairsum
 {
     // Function to find a pair in an array with a given sum using hashing
